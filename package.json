@@ -15,9 +15,12 @@
     "vitest": "^0.15.1"
   },
   "dependencies": {
+    "@nuxtjs/firebase": "^8.2.2",
     "@pinia/nuxt": "^0.1.9",
     "daisyui": "^2.15.4",
+    "firebase": "^9.9.2",
     "firebase-admin": "^11.0.0",
-    "pinia": "^2.0.14"
+    "pinia": "^2.0.14",
+    "sass": "^1.54.4"
   }
 }

@@ -6,11 +6,10 @@ function checkRoute() {
 }
 </script>
 
-
 <template>
 <div class="navbar bg-base-100 rounded-xl">
   <div class="navbar-start">
-    <a class="btn btn-ghost normal-case text-xl">Nuxt App</a>
+    <a class="btn btn-ghost normal-case text-xl">Love, Death & 64 Robots</a>
   </div>
   <div class="navbar-center hidden lg:flex">
     <ul class="menu menu-horizontal p-0">
